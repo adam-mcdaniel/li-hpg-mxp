@@ -7,3 +7,4 @@ bin/hpcg20*.txt
 .DS_Store
 build/
 install/
+/*.txt
